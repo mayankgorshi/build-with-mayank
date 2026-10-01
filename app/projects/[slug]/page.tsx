@@ -7,7 +7,7 @@ const projects = {
     description:
       "A QR-based restaurant ordering platform designed to make restaurant ordering faster, simpler and more efficient.",
 
-    image: "/projects/restaurant.png",
+    image: "/projects/restaurant.webp",
 
     technologies: [
       "React",
@@ -48,7 +48,7 @@ const projects = {
     description:
       "A modern productivity platform focused on projects, tasks, authentication and team workflows.",
 
-    image: "/projects/teamflow.png",
+    image: "/projects/teamflow.webp",
 
     technologies: [
       "React",
@@ -90,7 +90,7 @@ const projects = {
     description:
       "A modern shopping experience with product discovery, collections, cart functionality and a polished interface.",
 
-    image: "/projects/ecommerce.png",
+    image: "/projects/ecommerce.webp",
 
     technologies: [
       "React",

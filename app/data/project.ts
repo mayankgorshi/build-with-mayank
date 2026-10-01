@@ -42,7 +42,7 @@ export const projects: Project[] = [
     technologies: ["React", "Node.js", "MongoDB", "Razorpay"],
 
     // Restaurant
-    image: "/projects/restaurant/customer-table.png",
+    image: "/projects/restaurant/customer-table.webp",
     thumbnailPosition: "center 35%",
 
     status: "Live",
@@ -105,12 +105,12 @@ export const projects: Project[] = [
     role: "Full-Stack Developer",
 
     screenshots: [
-      "/projects/restaurant/login.png",
-      "/projects/restaurant/cart.png",
-      "/projects/restaurant/kitchen-dashboard.png",
-      "/projects/restaurant/restaurant-settings.png",
-      "/projects/restaurant/owner-control.png",
-      "/projects/restaurant/customer-table.png",
+      "/projects/restaurant/login.webp",
+      "/projects/restaurant/cart.webp",
+      "/projects/restaurant/kitchen-dashboard.webp",
+      "/projects/restaurant/restaurant-settings.webp",
+      "/projects/restaurant/owner-control.webp",
+      "/projects/restaurant/customer-table.webp",
     ],
   },
 
@@ -124,7 +124,7 @@ export const projects: Project[] = [
     technologies: ["React", "TypeScript", "PostgreSQL", "JWT"],
 
     // TeamFlow
-    image: "/projects/teamflow/dashboard.png",
+    image: "/projects/teamflow/dashboard.webp",
     thumbnailPosition: "center top",
     status: "Completed",
 
@@ -184,10 +184,10 @@ export const projects: Project[] = [
     role: "Full-Stack Developer",
 
     screenshots: [
-      "/projects/teamflow/dashboard.png",
-      "/projects/teamflow/projects.png",
-      "/projects/teamflow/chat-section.png",
-      "/projects/teamflow/account-center.png",
+      "/projects/teamflow/dashboard.webp",
+      "/projects/teamflow/projects.webp",
+      "/projects/teamflow/chat-section.webp",
+      "/projects/teamflow/account-center.webp",
     ],
   },
 
@@ -206,7 +206,7 @@ export const projects: Project[] = [
     ],
 
     // Fashion Store
-    image: "/projects/fashion-store/home.png",
+    image: "/projects/fashion-store/home.webp",
     thumbnailPosition: "center 42%",
 
     status: "Completed",
@@ -267,11 +267,11 @@ export const projects: Project[] = [
     role: "Frontend Developer",
 
     screenshots: [
-      "/projects/fashion-store/home.png",
-      "/projects/fashion-store/product.png",
-      "/projects/fashion-store/details.png",
-      "/projects/fashion-store/store-cart.png",
-      "/projects/fashion-store/checkout.png",
+      "/projects/fashion-store/home.webp",
+      "/projects/fashion-store/product.webp",
+      "/projects/fashion-store/details.webp",
+      "/projects/fashion-store/store-cart.webp",
+      "/projects/fashion-store/checkout.webp",
     ],
   },
 ];
